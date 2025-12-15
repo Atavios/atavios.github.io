@@ -1,3 +1,15 @@
+## Nuestras tiendas
+
+### Tienda Atavios
+Calle Viva España 8 <br>
+50006 Zaragoza <br>
+Teléfono 976 389 208 <br>
+
+### Tienda Atavios La Jota
+Plaza La Albada 7, local 3 <br>
+50014 Zaragoza <br>
+Teléfono 976 90 82 08 <br>
+
 ## La Tienda - Taller
 
 Nuestra tienda – taller nació en el año 1994, siendo un pequeño taller de confección artesanal de indumentaria aragonesa.
@@ -18,18 +30,6 @@ La ocasión, la edad, el sexo y los condicionantes socio-económicos de cada mom
 - Dances: Danzantes, mayorales y ramadanes.
 - Bodas y bautizos
 - Sin olvidar los complementos y abalorios mas delicados y acordes a la ocasión y vestimenta.
-
-## Nuestras tiendas
-
-### Tienda Atavios
-Calle Viva España 8 <br>
-50006 Zaragoza <br>
-Teléfono 976 389 208 <br>
-
-### Tienda Atavios La Jota
-Plaza La Albada 7, local 3 <br>
-50014 Zaragoza <br>
-Teléfono 976 90 82 08 <br>
 
 ## Productos
 
